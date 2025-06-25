@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Get 15% Off!",
+    "description": "Enjoy 15% off all bookings made this week. Available on all car types!",
+    "icon": "https://i.ibb.co/Z1wH2fQt/istockphoto-1457011750-612x612.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Free Upgrade Weekend",
+    "description": "Book a standard car and get a free upgrade to premium every weekend.",
+    "icon": "https://i.ibb.co/xSCynQzp/istockphoto-1022119090-612x612.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Refer & Earn",
+    "description": "Refer friends and earn ride credits when they book with your code.",
+    "icon": "https://i.ibb.co/NRqLfV8/istockphoto-1061290938-612x612.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Student Discount",
+    "description": "Students get up to 20% off on weekday rentals with valid ID.",
+    "icon": "https://i.ibb.co/5hQRHSRF/istockphoto-1268716253-612x612.jpg"
+  }
+]
